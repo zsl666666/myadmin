@@ -1,0 +1,46 @@
+{
+  "list": [
+    {
+      "id": 4,
+      "name": "HUAWEI P30",
+      "price": 4288,
+      "salePrice": 222,
+      "salePoint": "sdf"
+    },
+    {
+      "id": 5,
+      "name": "HUAWEI P30",
+      "price": 4288,
+      "salePrice": 222,
+      "salePoint": "sdf"
+    },
+    {
+      "id": 6,
+      "name": "HUAWEI P30",
+      "price": 4288,
+      "salePrice": 222,
+      "salePoint": "sdf"
+    },
+    {
+      "name": "HUAWEI P10",
+      "price": 4288,
+      "salePrice": 222,
+      "salePoint": "sdf",
+      "id": 7
+    },
+    {
+      "name": "HUAWEI",
+      "price": 4288,
+      "salePrice": 222,
+      "salePoint": "sdf",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "hua",
+      "price": "1234",
+      "salePrice": "333",
+      "salePoint": "222"
+    }
+  ]
+}
